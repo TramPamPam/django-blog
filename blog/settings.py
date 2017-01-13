@@ -25,8 +25,7 @@ SECRET_KEY = '!k7oed(e2+g=*es*!n@&ye0e6vewd98&6!r%lsd%e&_rdr+dlt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['trampampamm.pythonanywhere.com']
 
 # Application definition
 
